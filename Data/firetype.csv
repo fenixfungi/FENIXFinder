@@ -1,0 +1,66 @@
+Location,FireType,RecommendationFireType
+East Bay,Structure Fire,Do not use XX
+Oakland Hills,Wildfire,Consider X and Y
+Tri-Valley,Prescribed Fire,Consider Z and Q
+Mountain,Structure Fire,Do not use XX
+Gold Country,Wildfire,Consider X and Y
+North Valley,Prescribed Fire,Consider Z and Q
+Gold Country,Structure Fire,Do not use XX
+Sacramento Valley,Wildfire,Consider X and Y
+East Bay,Prescribed Fire,Consider Z and Q
+North Coast,Structure Fire,Do not use XX
+Sierra Nevada,Wildfire,Consider X and Y
+Central Valley,Prescribed Fire,Consider Z and Q
+Sacramento Valley,Structure Fire,Do not use XX
+North Coast,Wildfire,Consider X and Y
+Desert,Prescribed Fire,Consider Z and Q
+Eastern Sierra,Structure Fire,Do not use XX
+Central Valley,Wildfire,Consider X and Y
+Central Valley,Prescribed Fire,Consider Z and Q
+North Coast,Structure Fire,Do not use XX
+Northeast,Wildfire,Consider X and Y
+Downtown,Prescribed Fire,Consider Z and Q
+Westside,Structure Fire,Do not use XX
+Valley,Wildfire,Consider X and Y
+Central Valley,Prescribed Fire,Consider Z and Q
+Coastal,Structure Fire,Do not use XX
+Interior,Wildfire,Consider X and Y
+Sierra Nevada,Prescribed Fire,Consider Z and Q
+North Coast,Structure Fire,Do not use XX
+Central Valley,Wildfire,Consider X and Y
+Northeast,Prescribed Fire,Consider Z and Q
+Eastern Sierra,Structure Fire,Do not use XX
+Central Coast,Wildfire,Consider X and Y
+Wine Country,Prescribed Fire,Consider Z and Q
+Sierra Nevada,Structure Fire,Do not use XX
+South Coast,Wildfire,Consider X and Y
+Sierra Nevada,Prescribed Fire,Consider Z and Q
+Northeast,Structure Fire,Do not use XX
+Inland Empire,Wildfire,Consider X and Y
+Sacramento Valley,Prescribed Fire,Consider Z and Q
+Central Coast,Structure Fire,Do not use XX
+Inland Empire,Wildfire,Consider X and Y
+North County,Prescribed Fire,Consider Z and Q
+Central,Structure Fire,Do not use XX
+South Bay,Wildfire,Consider X and Y
+The City,Prescribed Fire,Consider Z and Q
+Central Valley,Structure Fire,Do not use XX
+Central Coast,Wildfire,Consider X and Y
+Bay Area,Prescribed Fire,Consider Z and Q
+Central Coast,Structure Fire,Do not use XX
+Silicon Valley,Wildfire,Consider X and Y
+Central Coast,Prescribed Fire,Consider Z and Q
+North State,Structure Fire,Do not use XX
+Sierra Nevada,Wildfire,Consider X and Y
+North State,Prescribed Fire,Consider Z and Q
+North Bay,Structure Fire,Do not use XX
+Wine Country,Wildfire,Consider X and Y
+Central Valley,Prescribed Fire,Consider Z and Q
+Sacramento Valley,Structure Fire,Do not use XX
+North State,Wildfire,Consider X and Y
+North State,Prescribed Fire,Consider Z and Q
+Central Valley,Structure Fire,Do not use XX
+Sierra Nevada,Wildfire,Consider X and Y
+South Coast,Prescribed Fire,Consider Z and Q
+Sacramento Valley,Wildfire,Consider X and Y
+Sacramento Valley,Prescribed Fire,Consider Z and Q
